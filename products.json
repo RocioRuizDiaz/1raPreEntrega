@@ -1,0 +1,114 @@
+[
+
+  {
+    "id": 1,
+    "title": "Naruto Uzumaki Figure",
+    "description": "Collectible Naruto Uzumaki figure with dynamic pose.",
+    "code": "NARUTO001",
+    "price": 29.99,
+    "status": true,
+    "stock": 50,
+    "category": "Collectibles"
+    
+  },
+  {
+    "id": 2,
+    "title": "One Piece Straw Hat",
+    "description": "High-quality replica of Luffy's straw hat from One Piece.",
+    "code": "ONEPIECE002",
+    "price": 19.99,
+    "status": true,
+    "stock": 30,
+    "category": "Accessories"
+  
+  },
+  {
+    "id": 3,
+    "title": "Attack on Titan Keychain",
+    "description": "Metal keychain featuring the iconic Survey Corps emblem.",
+    "code": "AOT003",
+    "price": 9.99,
+    "status": true,
+    "stock": 100,
+    "category": "Accessories"
+  },
+
+    {
+      "id": 4,
+      "title": "My Hero Academia Poster",
+      "description": "Vibrant poster showcasing the main characters of My Hero Academia.",
+      "code": "MHA004",
+      "price": 14.99,
+      "status": true,
+      "stock": 20,
+      "category": "Art"
+      
+    },
+    {
+      "id": 5,
+      "title": "Demon Slayer Key Art T-Shirt",
+      "description": "Comfortable cotton T-shirt featuring stunning Demon Slayer key art.",
+      "code": "DEMONSLAYER005",
+      "price": 24.99,
+      "status": true,
+      "stock": 50,
+      "category": "Apparel"
+      
+    },
+    {
+      "id": 6,
+      "title": "Sailor Moon Wand Replica",
+      "description": "Detailed replica of Sailor Moon's iconic Moon Stick wand.",
+      "code": "SAILORMOON006",
+      "price": 39.99,
+      "status": true,
+      "stock": 15,
+      "category": "Collectibles"
+      
+    },
+    {
+      "id": 7,
+      "title": "Tokyo Ghoul Manga Volume 1",
+      "description": "First volume of the Tokyo Ghoul manga series.",
+      "code": "TOKYOGHOUL007",
+      "price": 12.99,
+      "status": true,
+      "stock": 25,
+      "category": "Books"
+      
+    },
+    {
+      "id": 8,
+      "title": "Dragon Ball Z Action Figures Set",
+      "description": "Set of 3 Dragon Ball Z action figures: Goku, Vegeta, and Piccolo.",
+      "code": "DBZ008",
+      "price": 49.99,
+      "status": true,
+      "stock": 10,
+      "category": "Collectibles"
+    },
+    {
+      "id": 9,
+      "title": "Studio Ghibli Movie Collection",
+      "description": "Box set containing a collection of Studio Ghibli movies.",
+      "code": "GHIBLICOLLECTION009",
+      "price": 89.99,
+      "status": true,
+      "stock": 5,
+      "category": "Movies"
+    },
+    {
+      "id": 10,
+      "title": "Neon Genesis Evangelion Figure",
+      "description": "Highly detailed Evangelion figure with interchangeable parts.",
+      "code": "EVA010",
+      "price": 34.99,
+      "status": true,
+      "stock": 20,
+      "category": "Collectibles"
+      
+    }
+
+  
+  ]
+  
